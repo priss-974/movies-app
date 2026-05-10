@@ -1,0 +1,2 @@
+@import "talwind.css" source(none);
+@source '../**/*.{js,ts,jsx,tsx}';
